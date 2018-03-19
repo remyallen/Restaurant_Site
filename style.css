@@ -1,0 +1,70 @@
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: white;
+}
+
+title {
+  font-family: 'Pacifico', cursive;
+}
+
+h1 {
+	font-size: 20px;
+	line-height: 40px;
+	color: Green;
+}
+
+h2 {
+	font-size: 14px;
+	line-height: 40px;
+	color: Red;
+
+}
+
+hr {
+	border-top: 3px dashed purple;
+	border-bottom: 3px solid purple;
+}
+
+a {
+     font-family: serif;
+     text-decoration: underline;
+     font-weight: none;
+}
+
+a:link {
+      color: black;
+}
+
+a:hover {
+     color: black;
+}
+
+a:active
+
+{
+
+
+a {
+  font-family: monospace;
+  text-decoration: underline;
+  font-weight: none;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: Red;
+}
+
+a:hover {
+  text-decoration: none;
+  color: grey;
+  font-family: cursive;
+}
+
+a:active {
+  font-weight: bold;
+}
